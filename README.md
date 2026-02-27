@@ -126,7 +126,7 @@ Three dropdown slicers allow users to drill into any combination of **Year**, **
 
 ## 📸 Dashboard Preview
 
-![AQI Index Analysis Dashboard]([preview.png](https://github.com/akavision/AQI-Index-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png))
+![AQI Index Analysis Dashboard](https://raw.githubusercontent.com/akavision/AQI-Index-Analysis/main/Snapshot%20of%20the%20Dashboard.png)
 
 ---
 
